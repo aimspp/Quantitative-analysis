@@ -27,7 +27,6 @@
 10. [北向资金交易能力一定强吗](https://www.joinquant.com/view/community/detail/c11731e00f6de8e489ed64cec1621c33)
 11. [择时视角下的波动率因子](https://www.joinquant.com/view/community/detail/986f2732c0b0287bc8f161829f32b689)
 12. [趋与势的量化定义研究](https://www.joinquant.com/view/community/detail/9d12d9691b4201f95e4d0b99ada7676d)
-13. [高频价量相关性，意想不到的选股因子](https://www.joinquant.com/view/community/detail/539e74507dbf571f2be21d8fa4ebb8e6)
 
 **因子**
 
@@ -43,6 +42,7 @@
 10. [振幅因子的隐藏结构](https://www.joinquant.com/view/community/detail/a35fe484e3164893d4e48fafd3e08fd2)
 11. [高质量动量因子选股](https://www.joinquant.com/view/community/detail/f72c599da7d4ca155b25bff4b281e2e6)
 12. [APM因子改进模型](https://www.joinquant.com/view/community/detail/992fe40cc06c0bde50aa4aaf93fa042c)
+13. [高频价量相关性，意想不到的选股因子](https://www.joinquant.com/view/community/detail/539e74507dbf571f2be21d8fa4ebb8e6)
 
 **量化价值**
 
